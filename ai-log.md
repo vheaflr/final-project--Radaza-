@@ -41,10 +41,11 @@ EXAMPLE:
 Minimum of 5 meaningful AI logs.
 -->
 
-## Entry 1: [Date]
-- **User story:**
-- **What I asked:**
-- **What the AI suggested:**
-- **What I changed or rejected, and why:**
-- **How I tested it:**
-- **What I learned:**
+## Entry 1: November 27, 2026
+- **User story:** As a student, I want to browse, search, and filter available campus offices, so that I can quickly find the specific office I need to visit.
+- **What I asked:** Asked for a step-by-step plan for US1 (browsing and selecting campus offices) and the HTML code for step 1.
+- **What the AI suggested:**  A 4-step plan covering HTML structure, mobile-first CSS, a JavaScript array of offices, and DOM rendering, plus the initial `index.html` layout with an empty `#office-list` container and a hidden `#queue-details` panel.
+- **What I changed or rejected, and why:** I change the title and aside from that I kepp it as is. 
+- **How I tested it:** Using Live Preview
+- **What I learned:**  Placing the `<script>` tag at the bottom of `<body>` ensures HTML elements load first, and the `hidden` attribute keeps sections invisible until needed.
+
