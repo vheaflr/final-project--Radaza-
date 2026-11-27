@@ -1,30 +1,36 @@
 # [App Name]
-<!-- About your app: what does your app do? Example: "Today's carinderia menu and orders, without paper." -->
+QueueLess Campus – A front-end web application prototype (built with HTML, CSS, and JavaScript) for Students and Campus Office Staff to manage campus office lines.
 
 ## Problem
-<!-- 1–2 sentences in bulleted form. Keep it direct. What everyday problem does your app solve? Who has this problem, and where?
-Example: Carinderia owners in Manolo Fortich write orders on paper and lose track during lunch rush. -->
+• Students spend excessive time waiting in long, crowded physical lines at campus offices (Registrar, Cashier, Clinic, Guidance, Admissions, Student Affairs).
+
+• Students lack visibility into how many people are ahead of them or their estimated wait time.
+
+• Unpredictable wait times cause students to waste time they could otherwise spend attending classes, studying, or doing school activities.
+
 
 ## Target Users
-<!-- List 1–2 types of people who will use your app. Be specific.
-Example: Carinderia owners; customers ordering for pickup -->
+Campus Staffs; Students
 
 ## Solution
-<!-- Add your solution -->
+• Provide a browser-based, responsive interface (usable on phones, tablets, and computers without installation) featuring dark/light modes and search/filtering to quickly locate offices
+
+• Display real-time simulated queue metrics including the current number being served, total people waiting, and estimated wait time
+
+• Allow users to generate a virtual queue number via pop-up modals backed by form validation to verify complete inputs
+
 
 ## Main Feature
-<!-- The ONE thing your app must do. If you removed everything else, what's left?
-Example: Customers view today's menu; the owner adds and tracks orders. -->
+Office Selection & Search; Live Queue Status Display; Virtual Queue Number Generation 
 
 ## Pages
-<!-- List 3–5 pages and one line on what each page shows. Homepage and App page are required. -->
-- Homepage:
-- App page:
-- Cart or Subscription page:
+- Homepage: The Landing page where you can see what this website is all about
+- Office page: where you can see the available offices
+- Queue Status page: where you can see the queue status of each offices
 - 
 
 ## Team
-<!-- Name – role. Example: Juan Dela Cruz – Developer -->
+Vhea Flor G. Radaza - Developer
 - 
 
 ## Live Link
